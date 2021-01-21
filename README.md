@@ -1,3 +1,3 @@
-# Kalkulator-Sederhana
+# Simple-Calculator 
 
-Program kalkulator sederhana yang dibuat menggunakan bahasa Java
+A simple GUI programm that written in Java
